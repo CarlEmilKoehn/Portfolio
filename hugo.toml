@@ -1,0 +1,4 @@
+baseURL = 'https://carlemilkoehn.github.io/Portfolio/'
+languageCode = 'en-us'
+title = 'Portfolio'
+theme = "blowfish"

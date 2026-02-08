@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blowfish へようこそ! :tada: on Blowfish</title>
+    <link>http://localhost:1313/ja/</link>
+    <description>Recent content in Blowfish へようこそ! :tada: on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
+    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blowfish へようこそ</title>
+      <link>http://localhost:1313/ja/docs/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/docs/welcome/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xD;&#xA;  Blowfish にはたくさんの機能が詰まっています。&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xA;&lt;p&gt;元々、Blowfish の目標は、シンプルで軽量なテーマを開発することでした。このテーマは &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nunocoracao/congo&#34;&gt;Congo&lt;/a&gt; をフォークし、その当初のビジョンを発展させたものです。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/welcome/featured.svg" />
+    </item>
+    
+    <item>
+      <title>インストール</title>
+      <link>http://localhost:1313/ja/docs/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/docs/installation/</guid>
+      <description>&lt;p&gt;Hugo の&lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;クイックスタートガイド&lt;/a&gt;に従うだけで、簡単に使い始めることができます。&lt;/p&gt;&#xA;&lt;p&gt;詳細なインストール手順は以下に記載されています。&lt;a href=&#34;http://localhost:1313/ja/docs/installation/#%e3%83%86%e3%83%bc%e3%83%9e%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e6%96%b9%e6%b3%95&#34; &gt;テーマのアップデート方法&lt;/a&gt;についても説明しています。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/installation/featured.svg" />
+    </item>
+    
+    <item>
+      <title>始める</title>
+      <link>http://localhost:1313/ja/docs/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/docs/getting-started/</guid>
+      <description>&lt;div&#xD;&#xA;  &#xD;&#xA;    class=&#34;flex px-4 py-3 rounded-md shadow bg-primary-100 dark:bg-primary-900&#34;&#xD;&#xA;  &#xD;&#xA;  &gt;&#xD;&#xA;  &lt;span&#xD;&#xA;    &#xD;&#xA;      class=&#34;text-primary-400 pe-3 flex items-center&#34;&#xD;&#xA;    &#xD;&#xA;    &gt;&#xD;&#xA;    &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z&#34;/&gt;&lt;/svg&gt;&#xD;&#xA;&lt;/span&gt;&#xD;&#xA;  &lt;/span&gt;&#xD;&#xA;&#xD;&#xA;  &lt;span&#xD;&#xA;    &#xD;&#xA;      class=&#34;dark:text-neutral-300&#34;&#xD;&#xA;    &#xD;&#xA;    &gt;このセクションでは、&lt;a href=&#34;http://localhost:1313/ja/docs/installation/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Blowfish テーマをすでにインストールしている&lt;/a&gt;ことを前提としています。&lt;/span&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xA;&lt;/br&gt;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div&#xD;&#xA;  &#xD;&#xA;    class=&#34;flex px-4 py-3 rounded-md shadow bg-primary-100 dark:bg-primary-900&#34;&#xD;&#xA;  &#xD;&#xA;  &gt;&#xD;&#xA;  &lt;span&#xD;&#xA;    &#xD;&#xA;      class=&#34;text-primary-400 pe-3 flex items-center&#34;&#xD;&#xA;    &#xD;&#xA;    &gt;&#xD;&#xA;    &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&#xD;&#xA;&lt;path fill=&#34;currentColor&#34;  d=&#34;M159.3 5.4c7.8-7.3 19.9-7.2 27.7 .1c27.6 25.9 53.5 53.8 77.7 84c11-14.4 23.5-30.1 37-42.9c7.9-7.4 20.1-7.4 28 .1c34.6 33 63.9 76.6 84.5 118c20.3 40.8 33.8 82.5 33.8 111.9C448 404.2 348.2 512 224 512C98.4 512 0 404.1 0 276.5c0-38.4 17.8-85.3 45.4-131.7C73.3 97.7 112.7 48.6 159.3 5.4zM225.7 416c25.3 0 47.7-7 68.8-21c42.1-29.4 53.4-88.2 28.1-134.4c-2.8-5.6-5.6-11.2-9.8-16.8l-50.6 58.8s-81.4-103.6-87.1-110.6C133.1 243.8 112 273.2 112 306.8C112 375.4 162.6 416 225.7 416z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;&#xD;&#xA;  &lt;/span&gt;&#xD;&#xA;&#xD;&#xA;  &lt;span&#xD;&#xA;    &#xD;&#xA;      class=&#34;dark:text-neutral-300&#34;&#xD;&#xA;    &#xD;&#xA;    &gt;&lt;p&gt;Blowfish の使用開始を支援する CLI ツールをリリースしました。インストールと設定に役立ちます。次のコマンドで CLI ツールをグローバルにインストールします。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/getting-started/featured.svg" />
+    </item>
+    
+    <item>
+      <title>設定</title>
+      <link>http://localhost:1313/ja/docs/configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/docs/configuration/</guid>
+      <description>&lt;p&gt;Blowfish は高度にカスタマイズ可能なテーマであり、最新の Hugo 機能を使用して設定方法をシンプルにしています。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/configuration/featured.svg" />
+    </item>
+    
+    <item>
+      <title>ホームページレイアウト</title>
+      <link>http://localhost:1313/ja/docs/homepage-layout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/docs/homepage-layout/</guid>
+      <description>&lt;p&gt;Blowfish は完全に柔軟なホームページレイアウトを提供します。2つのメインテンプレートから選択でき、追加設定でデザインを調整できます。または、独自のテンプレートを提供して、ホームページのコンテンツを完全に制御することもできます。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/homepage-layout/featured.svg" />
+    </item>
+    
+    <item>
+      <title>ショートコード</title>
+      <link>http://localhost:1313/ja/docs/shortcodes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/docs/shortcodes/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;デフォルトの Hugo ショートコード&lt;/a&gt;に加えて、Blowfish は機能拡張のためにいくつか独自のものを追加しています。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/shortcodes/featured.svg" />
+    </item>
+    
+    <item>
+      <title>フロントマター</title>
+      <link>http://localhost:1313/ja/docs/front-matter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/docs/front-matter/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://gohugo.io/content-management/front-matter/#front-matter-variables&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;デフォルトの Hugo フロントマターパラメータ&lt;/a&gt;に加えて、Blowfish は個々の記事の表示をカスタマイズするための追加オプションを多数用意しています。利用可能なテーマのフロントマターパラメータをすべて以下に示します。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/front-matter/featured.svg" />
+    </item>
+    
+    <item>
+      <title>複数の著者</title>
+      <link>http://localhost:1313/ja/docs/multi-author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/docs/multi-author/</guid>
+      <description>&lt;p&gt;一部のウェブサイトでは、複数の著者がコンテンツを提供しているため、ウェブサイト全体で単一のデフォルト著者以上のものが必要になります。このようなユースケースのために、Blowfish では、複数著者機能を使用して著者リストを拡張できます。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/multi-author/featured.svg" />
+    </item>
+    
+    <item>
+      <title>パーシャル</title>
+      <link>http://localhost:1313/ja/docs/partials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/docs/partials/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;アナリティクス&#xD;&#xA;    &lt;div id=&#34;アナリティクス&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e3%82%a2%e3%83%8a%e3%83%aa%e3%83%86%e3%82%a3%e3%82%af%e3%82%b9&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Blowfish は、Fathom Analytics、Google アナリティクス、Umami Analytics のビルトインサポートを提供しています。Fathom は、ユーザーのプライバシーを尊重する Google アナリティクスの有料の代替手段です。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/partials/featured.svg" />
+    </item>
+    
+    <item>
+      <title>サムネイル</title>
+      <link>http://localhost:1313/ja/docs/thumbnails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/docs/thumbnails/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;サムネイル&#xD;&#xA;    &lt;div id=&#34;サムネイル&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e3%82%b5%e3%83%a0%e3%83%8d%e3%82%a4%e3%83%ab&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Blowfish は、記事に視覚的な要素を簡単に追加できるように改良されました。サムネイル画像を設定するには、以下の例のように、記事のメインディレクトリ内に &lt;code&gt;feature*&lt;/code&gt; で始まる画像ファイル (ほとんどすべての形式がサポートされていますが、&lt;code&gt;.png&lt;/code&gt; または &lt;code&gt;.jpg&lt;/code&gt; を推奨) を配置するだけです。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/thumbnails/featured.svg" />
+    </item>
+    
+    <item>
+      <title>コンテンツの例</title>
+      <link>http://localhost:1313/ja/docs/content-examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/docs/content-examples/</guid>
+      <description>&lt;p&gt;ドキュメントを順に読んできた方なら、Blowfish で利用可能なすべての機能と設定について、すでにご存じでしょう。このページでは、これまで説明してきたすべてをまとめて、Hugo プロジェクトで使用できる実践的なサンプルを紹介します。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/content-examples/featured.svg" />
+    </item>
+    
+    <item>
+      <title>シリーズ</title>
+      <link>http://localhost:1313/ja/docs/series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/docs/series/</guid>
+      <description>&lt;p&gt;Blowfish は、一連の記事を「シリーズ」でグループ化する機能を提供します。記事をシリーズの下に配置すると、残りのシリーズ記事が各ページに表示され、それらの間をすばやく移動できるようになります。この例は、上で確認できます。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/series/featured.svg" />
+    </item>
+    
+    <item>
+      <title>高度なカスタマイズ</title>
+      <link>http://localhost:1313/ja/docs/advanced-customisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/docs/advanced-customisation/</guid>
+      <description>&lt;p&gt;Blowfish には高度な変更を加えるための多くの方法があります。カスタマイズできる内容や、希望する結果を得るための最良の方法については、以下をご覧ください。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/advanced-customisation/featured.svg" />
+    </item>
+    
+    <item>
+      <title>ホスティングとデプロイ</title>
+      <link>http://localhost:1313/ja/docs/hosting-deployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/docs/hosting-deployment/</guid>
+      <description>&lt;p&gt;Blowfish で構築された Hugo ウェブサイトをデプロイする方法はたくさんあります。このテーマは、ほとんどすべてのデプロイシナリオで柔軟に対応できるように設計されています。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/hosting-deployment/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Firebase: 閲覧数といいね</title>
+      <link>http://localhost:1313/ja/docs/firebase-views/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/docs/firebase-views/</guid>
+      <description>&lt;p&gt;ウェブサイト全体で動的データをサポートできるようにするために、Firebase を統合するサポートを追加しました。これにより、リストや投稿全体で閲覧数機能を使用できるようになります。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/firebase-views/featured.svg" />
+    </item>
+    
+    <item>
+      <title>複数の著者</title>
+      <link>http://localhost:1313/ja/samples/multiple-authors/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/samples/multiple-authors/</guid>
+      <description>複数の著者の利用方法の簡単な例。</description>
+      
+    </item>
+    
+    <item>
+      <title>サムネイル</title>
+      <link>http://localhost:1313/ja/samples/thumbnail_sample/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/samples/thumbnail_sample/</guid>
+      <description>A quick example of how to start using Thumbnails in your artciles.</description>
+      
+    </item>
+    
+    <item>
+      <title>アイコン</title>
+      <link>http://localhost:1313/ja/samples/icons/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/samples/icons/</guid>
+      <description>&lt;p&gt;Blowfish はいくつもの &lt;a href=&#34;https://fontawesome.com/icons&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;FontAwesome 6&lt;/a&gt; のアイコンを組み込み、サポートしています。これらは&lt;a href=&#34;http://localhost:1313/ja/docs/partials/#icon&#34; &gt;アイコンパーシャル&lt;/a&gt;または&lt;a href=&#34;http://localhost:1313/ja/docs/shortcodes/#icon&#34; &gt;アイコンショートコード&lt;/a&gt;のどちらかを利用してウェブサイトに含めることが出来ます。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/ja/samples/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/samples/markdown/</guid>
+      <description>&lt;p&gt;この記事は Blowfish を利用した基本的な Markdown フォーマットのサンプルを提供し、また基本的な HTML 要素がどのように装飾できるのかを示しています。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>リッチコンテンツ</title>
+      <link>http://localhost:1313/ja/samples/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/samples/rich-content/</guid>
+      <description>This is an &lt;em&gt;example&lt;/em&gt; of a &lt;strong&gt;rich&lt;/strong&gt; content summary.</description>
+      
+    </item>
+    
+    <item>
+      <title>代用語文</title>
+      <link>http://localhost:1313/ja/samples/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/samples/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>数学的記法</title>
+      <link>http://localhost:1313/ja/samples/mathematical-notation/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/samples/mathematical-notation/</guid>
+      <description>&lt;p&gt;KaTeX は数学的記法を記事内にレンダリングする際に利用できます。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>ダイアグラムとフローチャート</title>
+      <link>http://localhost:1313/ja/samples/diagrams-flowcharts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/samples/diagrams-flowcharts/</guid>
+      <description>Mermaid を利用して簡単に図やフローチャートを記事に追加する方法。</description>
+      
+    </item>
+    
+    <item>
+      <title>図表</title>
+      <link>http://localhost:1313/ja/samples/charts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/samples/charts/</guid>
+      <description>Blowfish は強力な図表とデータの視覚化のために Chart.js を内蔵しています。</description>
+      
+    </item>
+    
+    <item>
+      <title>絵文字 :parachute:</title>
+      <link>http://localhost:1313/ja/samples/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/ja/samples/emoji/</guid>
+      <description>📖🏞️🧗🏽🐉🧙🏽‍♂️🧚🏽👸</description>
+      
+    </item>
+    
+  </channel>
+</rss>
