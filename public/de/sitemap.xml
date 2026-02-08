@@ -881,13 +881,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/authors/"
+      hreflang="es"
+      href="http://localhost:1313/es/authors/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/authors/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/authors/"
     />
     <xhtml:link
       rel="alternate"
@@ -1450,13 +1450,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/html/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/html/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/html/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/html/"
     />
     <xhtml:link
       rel="alternate"
@@ -1609,13 +1609,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/gist/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/gist/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/gist/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/gist/"
     />
     <xhtml:link
       rel="alternate"
@@ -2440,13 +2440,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/favicons/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/favicons/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/favicons/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/favicons/"
     />
     <xhtml:link
       rel="alternate"
@@ -2585,13 +2585,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/front-matter/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/front-matter/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/front-matter/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/front-matter/"
     />
     <xhtml:link
       rel="alternate"
@@ -2735,13 +2735,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/icon/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/icon/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/icon/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/icon/"
     />
     <xhtml:link
       rel="alternate"
@@ -2855,13 +2855,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/es/tags/lead/"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/tags/lead/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/tags/lead/"
+      hreflang="es"
+      href="http://localhost:1313/es/tags/lead/"
     />
     <xhtml:link
       rel="alternate"
