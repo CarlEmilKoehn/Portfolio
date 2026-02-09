@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Universitaire on Blowfish</title>
+    <link>https://localhost:1313/fr/tags/universitaire/</link>
+    <description>Recent content in Universitaire on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <atom:link href="https://localhost:1313/fr/tags/universitaire/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>michaeldorner.de</title>
+      <link>https://localhost:1313/fr/users/61-d965f981aa39336ef7be5efac83c96b2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/fr/users/61-d965f981aa39336ef7be5efac83c96b2/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/61-d965f981aa39336ef7be5efac83c96b2/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Handbook on Teaching Empirical Software Engineering: Online Materials</title>
+      <link>https://localhost:1313/fr/users/73-54b73306674ec7e6778b54a0a8b18b36/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/fr/users/73-54b73306674ec7e6778b54a0a8b18b36/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/73-54b73306674ec7e6778b54a0a8b18b36/feature.webp" />
+    </item>
+    
+  </channel>
+</rss>

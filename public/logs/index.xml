@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logs on Blowfish</title>
+    <link>http://localhost:1313/logs/</link>
+    <description>Recent content in Logs on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
+    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/logs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Setting up Hugo &#43; Blowfish</title>
+      <link>http://localhost:1313/logs/first-log/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/logs/first-log/</guid>
+      <description>&lt;p&gt;Today I set up my portfolio using Hugo and the Blowfish theme.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

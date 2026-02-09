@@ -1,8 +1,7 @@
 ---
-title: "Welcome to Blowfish! :tada:"
-description: "This page was built using the Blowfish theme for Hugo."
+title: "Carl Emil Koehn"
+description: "Portfolio · Projects · Logs"
 ---
-
 
 <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
   <span class="flex items-center pe-3 text-primary-400">
@@ -20,10 +19,9 @@ description: "This page was built using the Blowfish theme for Hugo."
 </div>
 
 
-```shell
-npx blowfish-tools
-```  
+I’m a developer interested in **software**, **learning**, and **building things**.
 
-{{< youtubeLite id="SgXhGb-7QbU" label="Blowfish-tools demo" >}}
-
-
+This site contains:
+- Selected projects
+- Development logs
+- Notes on what I’m learning

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sito Portfolio on Blowfish</title>
+    <link>https://localhost:1313/it/tags/sito-portfolio/</link>
+    <description>Recent content in Sito Portfolio on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <atom:link href="https://localhost:1313/it/tags/sito-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Adam Madej - Gameplay Animator</title>
+      <link>https://localhost:1313/it/users/58-15cf92fba36f0319bd4b176da554fdb9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/it/users/58-15cf92fba36f0319bd4b176da554fdb9/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/58-15cf92fba36f0319bd4b176da554fdb9/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Ignacio Conde</title>
+      <link>https://localhost:1313/it/users/62-4de384e83ae8af3834cad28f6dfc6966/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/it/users/62-4de384e83ae8af3834cad28f6dfc6966/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/62-4de384e83ae8af3834cad28f6dfc6966/feature.webp" />
+    </item>
+    
+    <item>
+      <title>utrodus.com</title>
+      <link>https://localhost:1313/it/users/70-c562b0e606584dd96159faf763291fe1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/it/users/70-c562b0e606584dd96159faf763291fe1/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/70-c562b0e606584dd96159faf763291fe1/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Laterre Dev</title>
+      <link>https://localhost:1313/it/users/78-447e2f0f6f439b915e0b57f93e49b7d6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/it/users/78-447e2f0f6f439b915e0b57f93e49b7d6/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/78-447e2f0f6f439b915e0b57f93e49b7d6/feature.webp" />
+    </item>
+    
+  </channel>
+</rss>
