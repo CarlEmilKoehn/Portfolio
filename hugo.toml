@@ -1,0 +1,3 @@
+baseURL = 'https://carlemilkoehn.github.io/Portfolio/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
