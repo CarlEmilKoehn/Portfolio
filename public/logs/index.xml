@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logs on Carl Emil Køhn</title>
+    <link>http://localhost:1313/Portfolio/logs/</link>
+    <description>Recent content in Logs on Carl Emil Køhn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Sat, 14 Feb 2026 17:15:16 +0100</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/logs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Designing the Core Entities for Membolo</title>
+      <link>http://localhost:1313/Portfolio/logs/membolo-dev-log/</link>
+      <pubDate>Sat, 14 Feb 2026 17:15:16 +0100</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/logs/membolo-dev-log/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Portfolio/logs/membolo-dev-log/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
